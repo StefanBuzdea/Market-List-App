@@ -1,4 +1,4 @@
-# README for App_Market_List
+# App_Market_List
 
 This is a C# Windows Forms application that allows users to create a shopping list with a GUI interface.
 
