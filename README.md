@@ -32,7 +32,7 @@ To save the shopping list to a text file, click on the "Save List" button. The a
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
